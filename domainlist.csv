@@ -14,3 +14,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 15,2,(\.|^)microsoft\.com$,1,1633428213,1633428213,
 16,2,(\.|^)microsoftonline\.com$,1,1633428246,1633428246,
 17,2,(\.|^)bbc\.co\.uk$,1,1633428267,1633428267,
+18,0,creativecdn.com,1,1633447651,1633447651,"Added from Query Log"
+19,0,dns.msftncsi.com,1,1633473847,1633473847,"Added from Query Log"
+21,0,clients2.google.com,1,1633473857,1633473857,"Added from Query Log"
+22,0,nexusrules.officeapps.live.com,1,1633473863,1633473863,"Added from Query Log"
