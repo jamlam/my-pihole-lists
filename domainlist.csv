@@ -18,3 +18,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 19,0,dns.msftncsi.com,1,1633473847,1633473847,"Added from Query Log"
 21,0,clients2.google.com,1,1633473857,1633473857,"Added from Query Log"
 22,0,nexusrules.officeapps.live.com,1,1633473863,1633473863,"Added from Query Log"
+23,0,title.mgt.xboxlive.com,1,1633506365,1633506365,"Added from Query Log"
+24,0,device.auth.xboxlive.com,1,1633507723,1633507723,"Added from Query Log"
