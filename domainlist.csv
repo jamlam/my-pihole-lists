@@ -28,3 +28,17 @@ id,type,domain,enabled,date_added,date_modified,comment
 31,0,gstatic.com,1,1634145099,1634145099,"Added from Query Log"
 32,0,spclient.wg.spotify.com,1,1634904994,1634904994,"Added from Query Log"
 33,0,connectivitycheck.gstatic.com,1,1634964908,1634964908,"Added from Query Log"
+34,2,(\.|^)githubusercontent\.com$,1,1634969499,1634969499,
+35,0,ssl.google-analytics.com,1,1635929400,1635929400,"Added from Query Log"
+36,0,android.clients.google.com,1,1635929404,1635929404,"Added from Query Log"
+37,0,googleads.g.doubleclick.net,1,1635929411,1635929411,"Added from Query Log"
+38,0,device-metrics-us-2.amazon.com,1,1636620140,1636620140,"Added from Query Log"
+39,0,device-metrics-us.amazon.com,1,1636620152,1636620152,"Added from Query Log"
+40,0,telemetry.api.swiftkey.com,1,1636620320,1636620320,"Added from Query Log"
+42,0,clients3.google.com,1,1636700181,1636700181,"Added from Query Log"
+43,0,appleid.apple.com,1,1638003752,1638003752,
+44,0,cdnjs.cloudflare.com,1,1638096821,1638096821,
+45,0,mobile-collector.newrelic.com,1,1638120763,1638120763,"Added from Query Log"
+46,2,(\.|^)apple\.com$,1,1639040701,1639040701,
+47,0,g.live.com,1,1639673781,1639673781,"Added from Query Log"
+48,0,amazonaws.com,1,1639984889,1639984889,"Added from Query Log"
