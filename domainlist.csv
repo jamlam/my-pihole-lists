@@ -44,3 +44,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 48,0,amazonaws.com,1,1639984889,1639984889,"Added from Query Log"
 49,0,2.android.pool.ntp.org,1,1641105718,1641105718,"Added from Query Log"
 50,0,trace.svc.ui.com,1,1641105726,1641105726,"Added from Query Log"
+51,0,incoming.telemetry.mozilla.org,1,1641191536,1641191536,"Added from Query Log"
