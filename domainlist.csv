@@ -74,3 +74,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 86,0,smetrics.ancestry.com,1,1645027695,1645027695,"Added from Query Log"
 87,0,remote-data.urbanairship.com,1,1645027874,1645027874,"Added from Query Log"
 88,0,api.bugfender.com,1,1645027887,1645027887,"Added from Query Log"
+89,2,(\.|^)github\.com$,1,1645517630,1645517630,
