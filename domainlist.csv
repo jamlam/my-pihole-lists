@@ -10,7 +10,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 10,0,ctldl.windowsupdate.com,1,1633331365,1633331365,"Added from Query Log"
 11,0,fonts.gstatic.com,1,1633335921,1633335921,"Added from Query Log"
 12,0,www.googleapis.com,1,1633335927,1633335927,"Added from Query Log"
-13,2,(\.|^)github\.com$,1,1633423813,1633423813,GitHub
 15,2,(\.|^)microsoft\.com$,1,1633428213,1633428213,
 16,2,(\.|^)microsoftonline\.com$,1,1633428246,1633428246,
 17,2,(\.|^)bbc\.co\.uk$,1,1633428267,1633428267,
@@ -28,7 +27,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 31,0,gstatic.com,1,1634145099,1634145099,"Added from Query Log"
 32,0,spclient.wg.spotify.com,1,1634904994,1634904994,"Added from Query Log"
 33,0,connectivitycheck.gstatic.com,1,1634964908,1634964908,"Added from Query Log"
-34,2,(\.|^)githubusercontent\.com$,1,1634969499,1634969499,
 35,0,ssl.google-analytics.com,1,1635929400,1635929400,"Added from Query Log"
 36,0,android.clients.google.com,1,1635929404,1635929404,"Added from Query Log"
 37,0,googleads.g.doubleclick.net,1,1635929411,1635929411,"Added from Query Log"
